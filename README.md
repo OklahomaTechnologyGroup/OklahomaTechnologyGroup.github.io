@@ -1,7 +1,4 @@
-## Oklahoma Technology Group LLC
-
 Oklahoma's **ONLY** Managed Services Provider for Municipalties. 
-
 
 #### Services
 
