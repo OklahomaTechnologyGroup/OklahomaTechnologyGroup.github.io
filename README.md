@@ -1,13 +1,24 @@
 ## Oklahoma Technology Group LLC
 
-Oklahoma's **ONLY** Municipality Managed Services Provider.
+Oklahoma's **ONLY** Managed Services Provider for Municipalties. 
 
 
 #### Services
 
-Thank you for your interested in Oklahoma Technology Group LLC. 
-We look forward to servicing you better in the future. 
-While we work on preparing our company to provide the best service we can to you and your constituents, please contact us below to gather more information.
+Oklahoma Technology Group LLC provides Managed Services to municipalities looking to offload their Information Technology burdens. More and more municipalities are switching to the "Managed Services" model to save their organization time and money. We look to offer this service to Oklahoma and its municipalties. We understand the ever-changing IT landscape so you don't have to. 
+
+Services we offer include:
+- Email and server hosting (Coming Soon!)
+- Computer Reselling (Coming Soon!)
+- Network Consultations (Coming Soon!)
+- Network Management (Coming Soon!) 
+- Computer Hardware Troubleshooting (Coming Soon!)
+- Much Much More!
+
+#### Contact
+
+Thank you for your interested in Oklahoma Technology Group LLC.
+To figure just how we can save your organization time, money, and sleep, contact us using the email address below. We look forward to working with you! 
 
 [inquiries@oklahomatechgroup.com](mailto:inquiries@oklahomatechgroup.com)
 
