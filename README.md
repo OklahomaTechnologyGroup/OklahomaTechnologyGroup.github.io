@@ -9,7 +9,7 @@ Thank you for your interested in Oklahoma Technology Group LLC.
 We look forward to servicing you better in the future. 
 While we work on preparing our company to provide the best service we can to you and your constituents, please contact us below to gather more information.
 
-[inquiries@oklahomatechnologygroup.com](mailto:inquiries@oklahomatechnologygroup.com)
+[inquiries@oklahomatechgroup.com](mailto:inquiries@oklahomatechgroup.com)
 
 #### Staff
 
